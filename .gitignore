@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# PEP 582
+__pypackages__/
+
+# Environments
+.venv
+
+# IDE
+.vscode/
+
+# macOS
+.DS_Store
+
+# Project specific
+.vscode/settings.json
+
+uv.lock

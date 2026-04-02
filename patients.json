@@ -7,14 +7,31 @@
       "sex": "F",
       "blood_type": "O+",
       "primary_care_physician": "Dr. James Okonkwo",
-      "allergies": ["Penicillin", "Shellfish"],
-      "chronic_conditions": ["Hypertension", "Seasonal allergic rhinitis"],
+      "allergies": [
+        "Penicillin",
+        "Shellfish"
+      ],
+      "chronic_conditions": [
+        "Hypertension",
+        "Seasonal allergic rhinitis"
+      ],
       "current_medications": [
-        { "name": "Lisinopril", "dose": "10 mg", "frequency": "daily" },
-        { "name": "Cetirizine", "dose": "10 mg", "frequency": "as needed" }
+        {
+          "name": "Lisinopril",
+          "dose": "10 mg",
+          "frequency": "daily"
+        },
+        {
+          "name": "Cetirizine",
+          "dose": "10 mg",
+          "frequency": "as needed"
+        }
       ],
       "last_visit": "2026-01-22",
-      "notes": "BP well controlled on current regimen. Advised salt moderation."
+      "notes": "BP well controlled on current regimen. Advised salt moderation.",
+      "height_cm": 165,
+      "weight_kg": 68,
+      "bmi": 25.0
     },
     {
       "patient_id": "PT-10002",
@@ -24,13 +41,27 @@
       "blood_type": "A-",
       "primary_care_physician": "Dr. James Okonkwo",
       "allergies": [],
-      "chronic_conditions": ["Type 2 diabetes mellitus", "Hyperlipidemia"],
+      "chronic_conditions": [
+        "Type 2 diabetes mellitus",
+        "Hyperlipidemia"
+      ],
       "current_medications": [
-        { "name": "Metformin", "dose": "1000 mg", "frequency": "twice daily" },
-        { "name": "Atorvastatin", "dose": "20 mg", "frequency": "evening" }
+        {
+          "name": "Metformin",
+          "dose": "1000 mg",
+          "frequency": "twice daily"
+        },
+        {
+          "name": "Atorvastatin",
+          "dose": "20 mg",
+          "frequency": "evening"
+        }
       ],
       "last_visit": "2026-02-10",
-      "notes": "HbA1c 6.8%. Discussed diet and foot care. Lipid panel improved."
+      "notes": "HbA1c 6.8%. Discussed diet and foot care. Lipid panel improved.",
+      "height_cm": 178,
+      "weight_kg": 92,
+      "bmi": 29.0
     },
     {
       "patient_id": "PT-10003",
@@ -39,14 +70,29 @@
       "sex": "F",
       "blood_type": "B+",
       "primary_care_physician": "Dr. Sarah Lindstrom",
-      "allergies": ["Latex"],
-      "chronic_conditions": ["Asthma (mild persistent)"],
+      "allergies": [
+        "Latex"
+      ],
+      "chronic_conditions": [
+        "Asthma (mild persistent)"
+      ],
       "current_medications": [
-        { "name": "Fluticasone/Salmeterol DPI", "dose": "250/50 mcg", "frequency": "twice daily" },
-        { "name": "Albuterol MDI", "dose": "90 mcg", "frequency": "as needed" }
+        {
+          "name": "Fluticasone/Salmeterol DPI",
+          "dose": "250/50 mcg",
+          "frequency": "twice daily"
+        },
+        {
+          "name": "Albuterol MDI",
+          "dose": "90 mcg",
+          "frequency": "as needed"
+        }
       ],
       "last_visit": "2025-12-05",
-      "notes": "Peak flow stable. Reviewed inhaler technique. Flu vaccine given."
+      "notes": "Peak flow stable. Reviewed inhaler technique. Flu vaccine given.",
+      "height_cm": 160,
+      "weight_kg": 59,
+      "bmi": 23.0
     },
     {
       "patient_id": "PT-10004",
@@ -55,15 +101,35 @@
       "sex": "M",
       "blood_type": "AB+",
       "primary_care_physician": "Dr. James Okonkwo",
-      "allergies": ["Sulfa drugs"],
-      "chronic_conditions": ["Coronary artery disease", "GERD"],
+      "allergies": [
+        "Sulfa drugs"
+      ],
+      "chronic_conditions": [
+        "Coronary artery disease",
+        "GERD"
+      ],
       "current_medications": [
-        { "name": "Aspirin", "dose": "81 mg", "frequency": "daily" },
-        { "name": "Metoprolol succinate", "dose": "50 mg", "frequency": "daily" },
-        { "name": "Omeprazole", "dose": "20 mg", "frequency": "before breakfast" }
+        {
+          "name": "Aspirin",
+          "dose": "81 mg",
+          "frequency": "daily"
+        },
+        {
+          "name": "Metoprolol succinate",
+          "dose": "50 mg",
+          "frequency": "daily"
+        },
+        {
+          "name": "Omeprazole",
+          "dose": "20 mg",
+          "frequency": "before breakfast"
+        }
       ],
       "last_visit": "2026-02-28",
-      "notes": "No angina at rest. Cardiology follow-up in 6 months. Continue cardiac rehab."
+      "notes": "No angina at rest. Cardiology follow-up in 6 months. Continue cardiac rehab.",
+      "height_cm": 174,
+      "weight_kg": 84,
+      "bmi": 27.7
     },
     {
       "patient_id": "PT-10005",
@@ -72,13 +138,22 @@
       "sex": "F",
       "blood_type": "O-",
       "primary_care_physician": "Dr. Sarah Lindstrom",
-      "allergies": ["Ibuprofen"],
+      "allergies": [
+        "Ibuprofen"
+      ],
       "chronic_conditions": [],
       "current_medications": [
-        { "name": "Combined oral contraceptive", "dose": "as prescribed", "frequency": "daily" }
+        {
+          "name": "Combined oral contraceptive",
+          "dose": "as prescribed",
+          "frequency": "daily"
+        }
       ],
       "last_visit": "2026-03-01",
-      "notes": "Annual wellness. Pap and STI screening deferred to OB-GYN. BMI WNL."
+      "notes": "Annual wellness. Pap and STI screening deferred to OB-GYN. BMI WNL.",
+      "height_cm": 170,
+      "weight_kg": 62,
+      "bmi": 21.5
     },
     {
       "patient_id": "PT-10006",
@@ -88,13 +163,27 @@
       "blood_type": "A+",
       "primary_care_physician": "Dr. James Okonkwo",
       "allergies": [],
-      "chronic_conditions": ["Chronic kidney disease stage 3a", "Benign prostatic hyperplasia"],
+      "chronic_conditions": [
+        "Chronic kidney disease stage 3a",
+        "Benign prostatic hyperplasia"
+      ],
       "current_medications": [
-        { "name": "Tamsulosin", "dose": "0.4 mg", "frequency": "daily" },
-        { "name": "Cholecalciferol", "dose": "2000 IU", "frequency": "daily" }
+        {
+          "name": "Tamsulosin",
+          "dose": "0.4 mg",
+          "frequency": "daily"
+        },
+        {
+          "name": "Cholecalciferol",
+          "dose": "2000 IU",
+          "frequency": "daily"
+        }
       ],
       "last_visit": "2026-01-15",
-      "notes": "Creatinine stable. Counsel on fluid balance and NSAID avoidance."
+      "notes": "Creatinine stable. Counsel on fluid balance and NSAID avoidance.",
+      "height_cm": 172,
+      "weight_kg": 79,
+      "bmi": 26.7
     },
     {
       "patient_id": "PT-10007",
@@ -103,14 +192,30 @@
       "sex": "F",
       "blood_type": "O+",
       "primary_care_physician": "Dr. Sarah Lindstrom",
-      "allergies": ["Codeine"],
-      "chronic_conditions": ["Migraine without aura", "Iron deficiency anemia (resolved)"],
+      "allergies": [
+        "Codeine"
+      ],
+      "chronic_conditions": [
+        "Migraine without aura",
+        "Iron deficiency anemia (resolved)"
+      ],
       "current_medications": [
-        { "name": "Sumatriptan", "dose": "50 mg", "frequency": "as needed for migraine" },
-        { "name": "Ferrous sulfate", "dose": "325 mg", "frequency": "daily with food" }
+        {
+          "name": "Sumatriptan",
+          "dose": "50 mg",
+          "frequency": "as needed for migraine"
+        },
+        {
+          "name": "Ferrous sulfate",
+          "dose": "325 mg",
+          "frequency": "daily with food"
+        }
       ],
       "last_visit": "2026-02-20",
-      "notes": "Hemoglobin normalized. Continue iron 3 more months then recheck CBC."
+      "notes": "Hemoglobin normalized. Continue iron 3 more months then recheck CBC.",
+      "height_cm": 163,
+      "weight_kg": 57,
+      "bmi": 21.5
     },
     {
       "patient_id": "PT-10008",
@@ -120,12 +225,22 @@
       "blood_type": "B-",
       "primary_care_physician": "Dr. James Okonkwo",
       "allergies": [],
-      "chronic_conditions": ["Obstructive sleep apnea", "Obesity"],
+      "chronic_conditions": [
+        "Obstructive sleep apnea",
+        "Obesity"
+      ],
       "current_medications": [
-        { "name": "CPAP therapy", "dose": "pressure per titration", "frequency": "nightly" }
+        {
+          "name": "CPAP therapy",
+          "dose": "pressure per titration",
+          "frequency": "nightly"
+        }
       ],
       "last_visit": "2025-11-18",
-      "notes": "Reports improved sleep on CPAP. Weight down 4 kg since last visit."
+      "notes": "Reports improved sleep on CPAP. Weight down 4 kg since last visit.",
+      "height_cm": 181,
+      "weight_kg": 104,
+      "bmi": 31.7
     },
     {
       "patient_id": "PT-10009",
@@ -134,13 +249,24 @@
       "sex": "F",
       "blood_type": "A+",
       "primary_care_physician": "Dr. Sarah Lindstrom",
-      "allergies": ["Contrast dye (moderate reaction)"],
-      "chronic_conditions": ["Hypothyroidism"],
+      "allergies": [
+        "Contrast dye (moderate reaction)"
+      ],
+      "chronic_conditions": [
+        "Hypothyroidism"
+      ],
       "current_medications": [
-        { "name": "Levothyroxine", "dose": "75 mcg", "frequency": "fasting, daily" }
+        {
+          "name": "Levothyroxine",
+          "dose": "75 mcg",
+          "frequency": "fasting, daily"
+        }
       ],
       "last_visit": "2026-02-05",
-      "notes": "TSH in range. Maintain dose. Pre-medicate if IV contrast required."
+      "notes": "TSH in range. Maintain dose. Pre-medicate if IV contrast required.",
+      "height_cm": 158,
+      "weight_kg": 54,
+      "bmi": 21.6
     },
     {
       "patient_id": "PT-10010",
@@ -149,14 +275,29 @@
       "sex": "M",
       "blood_type": "O+",
       "primary_care_physician": "Dr. James Okonkwo",
-      "allergies": ["Peanuts"],
-      "chronic_conditions": ["Atopic dermatitis"],
+      "allergies": [
+        "Peanuts"
+      ],
+      "chronic_conditions": [
+        "Atopic dermatitis"
+      ],
       "current_medications": [
-        { "name": "Triamcinolone cream 0.1%", "dose": "thin layer", "frequency": "twice daily to flares" },
-        { "name": "Epinephrine auto-injector", "dose": "0.3 mg", "frequency": "carry at all times" }
+        {
+          "name": "Triamcinolone cream 0.1%",
+          "dose": "thin layer",
+          "frequency": "twice daily to flares"
+        },
+        {
+          "name": "Epinephrine auto-injector",
+          "dose": "0.3 mg",
+          "frequency": "carry at all times"
+        }
       ],
       "last_visit": "2026-01-08",
-      "notes": "EpiPen reviewed. Skin improving with intermittent topical steroid."
+      "notes": "EpiPen reviewed. Skin improving with intermittent topical steroid.",
+      "height_cm": 176,
+      "weight_kg": 73,
+      "bmi": 23.6
     },
     {
       "patient_id": "PT-10011",
@@ -166,14 +307,32 @@
       "blood_type": "O+",
       "primary_care_physician": "Dr. Sarah Lindstrom",
       "allergies": [],
-      "chronic_conditions": ["Osteoporosis", "Atrial fibrillation (rate-controlled)"],
+      "chronic_conditions": [
+        "Osteoporosis",
+        "Atrial fibrillation (rate-controlled)"
+      ],
       "current_medications": [
-        { "name": "Apixaban", "dose": "5 mg", "frequency": "twice daily" },
-        { "name": "Alendronate", "dose": "70 mg", "frequency": "weekly" },
-        { "name": "Calcium + vitamin D", "dose": "per label", "frequency": "daily" }
+        {
+          "name": "Apixaban",
+          "dose": "5 mg",
+          "frequency": "twice daily"
+        },
+        {
+          "name": "Alendronate",
+          "dose": "70 mg",
+          "frequency": "weekly"
+        },
+        {
+          "name": "Calcium + vitamin D",
+          "dose": "per label",
+          "frequency": "daily"
+        }
       ],
       "last_visit": "2026-03-15",
-      "notes": "INR not applicable on DOAC. Fall risk counseling. DEXA scheduled."
+      "notes": "INR not applicable on DOAC. Fall risk counseling. DEXA scheduled.",
+      "height_cm": 155,
+      "weight_kg": 61,
+      "bmi": 25.4
     },
     {
       "patient_id": "PT-10012",
@@ -183,13 +342,26 @@
       "blood_type": "AB-",
       "primary_care_physician": "Dr. James Okonkwo",
       "allergies": [],
-      "chronic_conditions": ["Generalized anxiety disorder"],
+      "chronic_conditions": [
+        "Generalized anxiety disorder"
+      ],
       "current_medications": [
-        { "name": "Sertraline", "dose": "100 mg", "frequency": "daily" },
-        { "name": "Cognitive behavioral therapy", "dose": "n/a", "frequency": "weekly" }
+        {
+          "name": "Sertraline",
+          "dose": "100 mg",
+          "frequency": "daily"
+        },
+        {
+          "name": "Cognitive behavioral therapy",
+          "dose": "n/a",
+          "frequency": "weekly"
+        }
       ],
       "last_visit": "2026-02-12",
-      "notes": "Mood improved. No SI/HI. Continue SSRI and therapy."
+      "notes": "Mood improved. No SI/HI. Continue SSRI and therapy.",
+      "height_cm": 180,
+      "weight_kg": 82,
+      "bmi": 25.3
     },
     {
       "patient_id": "PT-10013",
@@ -198,13 +370,24 @@
       "sex": "F",
       "blood_type": "A+",
       "primary_care_physician": "Dr. Sarah Lindstrom",
-      "allergies": ["Eggs"],
-      "chronic_conditions": ["Attention-deficit/hyperactivity disorder"],
+      "allergies": [
+        "Eggs"
+      ],
+      "chronic_conditions": [
+        "Attention-deficit/hyperactivity disorder"
+      ],
       "current_medications": [
-        { "name": "Methylphenidate ER", "dose": "18 mg", "frequency": "morning" }
+        {
+          "name": "Methylphenidate ER",
+          "dose": "18 mg",
+          "frequency": "morning"
+        }
       ],
       "last_visit": "2026-01-30",
-      "notes": "Growth parameters tracked. School reports improved focus. Guardians educated on appetite monitoring."
+      "notes": "Growth parameters tracked. School reports improved focus. Guardians educated on appetite monitoring.",
+      "height_cm": 148,
+      "weight_kg": 43,
+      "bmi": 19.6
     },
     {
       "patient_id": "PT-10014",
@@ -213,14 +396,30 @@
       "sex": "M",
       "blood_type": "B+",
       "primary_care_physician": "Dr. James Okonkwo",
-      "allergies": ["Morphine"],
-      "chronic_conditions": ["COPD (moderate)", "Hearing loss"],
+      "allergies": [
+        "Morphine"
+      ],
+      "chronic_conditions": [
+        "COPD (moderate)",
+        "Hearing loss"
+      ],
       "current_medications": [
-        { "name": "Tiotropium", "dose": "18 mcg", "frequency": "daily" },
-        { "name": "Albuterol nebulizer", "dose": "2.5 mg", "frequency": "as needed" }
+        {
+          "name": "Tiotropium",
+          "dose": "18 mcg",
+          "frequency": "daily"
+        },
+        {
+          "name": "Albuterol nebulizer",
+          "dose": "2.5 mg",
+          "frequency": "as needed"
+        }
       ],
       "last_visit": "2026-02-25",
-      "notes": "SpO2 94% on room air. Pulmonary rehab referral. Pneumococcal vaccines up to date."
+      "notes": "SpO2 94% on room air. Pulmonary rehab referral. Pneumococcal vaccines up to date.",
+      "height_cm": 169,
+      "weight_kg": 70,
+      "bmi": 24.5
     },
     {
       "patient_id": "PT-10015",
@@ -230,12 +429,21 @@
       "blood_type": "O+",
       "primary_care_physician": "Dr. Sarah Lindstrom",
       "allergies": [],
-      "chronic_conditions": ["Polycystic ovary syndrome"],
+      "chronic_conditions": [
+        "Polycystic ovary syndrome"
+      ],
       "current_medications": [
-        { "name": "Metformin", "dose": "500 mg", "frequency": "twice daily" }
+        {
+          "name": "Metformin",
+          "dose": "500 mg",
+          "frequency": "twice daily"
+        }
       ],
       "last_visit": "2026-03-10",
-      "notes": "Cycle regulation discussed. Fasting glucose WNL. Dermatology referral for hirsutism."
+      "notes": "Cycle regulation discussed. Fasting glucose WNL. Dermatology referral for hirsutism.",
+      "height_cm": 167,
+      "weight_kg": 76,
+      "bmi": 27.3
     }
   ]
 }
